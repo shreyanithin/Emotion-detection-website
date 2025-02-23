@@ -11,6 +11,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'hero-pattern': "url('/bg3.avif')", 
+      },
     },
   },
   plugins: [],
