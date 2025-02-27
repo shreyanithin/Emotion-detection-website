@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6 bg-hero-pattern bg-cover bg-center h-screen flex items-center ">
       <div className="bg-white/5 backdrop-blur-lg rounded-lg shadow-lg p-8 max-w-md text-center">
-      <h1 className="text-4xl font-bold text-white-800 mb-4">
+      <h1 className="text-4xl font-bold text-white mb-4">
         SoulWave
       </h1>
       <p className="text-lg text-gray-400 text-center mb-6">
